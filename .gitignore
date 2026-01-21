@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+backend/.env
+backend/data/
+backend/app.db
+
+frontend/node_modules/
+frontend/dist/
+frontend/.env
